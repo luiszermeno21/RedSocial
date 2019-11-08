@@ -1,0 +1,9 @@
+C:\Users\Luis Zermeño\source\repos\RedSocial\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Luis Zermeño\source\repos\RedSocial\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Luis Zermeño\source\repos\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Luis Zermeño\source\repos\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Luis Zermeño\source\repos\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Luis Zermeño\source\repos\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Luis Zermeño\source\repos\RedSocial\DataAccessLayer\bin\Debug\DomainLayer.dll
+C:\Users\Luis Zermeño\source\repos\RedSocial\DataAccessLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Luis Zermeño\source\repos\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete

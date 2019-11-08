@@ -1,0 +1,11 @@
+C:\Users\Luis Zermeño\source\repos\RedSocial\BusinnesLogicLayer\bin\Debug\BusinnesLogicLayer.dll
+C:\Users\Luis Zermeño\source\repos\RedSocial\BusinnesLogicLayer\bin\Debug\BusinnesLogicLayer.pdb
+C:\Users\Luis Zermeño\source\repos\RedSocial\BusinnesLogicLayer\obj\Debug\BusinnesLogicLayer.csprojAssemblyReference.cache
+C:\Users\Luis Zermeño\source\repos\RedSocial\BusinnesLogicLayer\obj\Debug\BusinnesLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Luis Zermeño\source\repos\RedSocial\BusinnesLogicLayer\obj\Debug\BusinnesLogicLayer.dll
+C:\Users\Luis Zermeño\source\repos\RedSocial\BusinnesLogicLayer\obj\Debug\BusinnesLogicLayer.pdb
+C:\Users\Luis Zermeño\source\repos\RedSocial\BusinnesLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Luis Zermeño\source\repos\RedSocial\BusinnesLogicLayer\bin\Debug\DomainLayer.dll
+C:\Users\Luis Zermeño\source\repos\RedSocial\BusinnesLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Luis Zermeño\source\repos\RedSocial\BusinnesLogicLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Luis Zermeño\source\repos\RedSocial\BusinnesLogicLayer\obj\Debug\BusinnesLogicLayer.csproj.CopyComplete
