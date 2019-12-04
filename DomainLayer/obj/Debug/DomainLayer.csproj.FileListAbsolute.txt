@@ -4,3 +4,9 @@ C:\Users\Luis Zermeño\source\repos\RedSocial\DomainLayer\obj\Debug\DomainLayer.
 C:\Users\Luis Zermeño\source\repos\RedSocial\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
 C:\Users\Luis Zermeño\source\repos\RedSocial\DomainLayer\obj\Debug\DomainLayer.dll
 C:\Users\Luis Zermeño\source\repos\RedSocial\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\Luis Zermeño\source\repos\ProyectoFinal\RedSocial\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\Luis Zermeño\source\repos\ProyectoFinal\RedSocial\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Luis Zermeño\source\repos\ProyectoFinal\RedSocial\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\Users\Luis Zermeño\source\repos\ProyectoFinal\RedSocial\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Luis Zermeño\source\repos\ProyectoFinal\RedSocial\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\Luis Zermeño\source\repos\ProyectoFinal\RedSocial\DomainLayer\obj\Debug\DomainLayer.pdb

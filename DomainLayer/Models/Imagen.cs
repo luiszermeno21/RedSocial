@@ -8,9 +8,10 @@ namespace DomainLayer.Models
 {
     public class Imagen
     {
-        int idimagen { get; set; }
-        string urlimagen { get; set; }
-        int likes { get; set; }
-        DateTime fecha { get; set; }
+        public int idimagen { get; set; }
+        public string urlimagen { get; set; }
+        public int likes { get; set; }
+        public DateTime fecha { get; set; }
+        public int idusuario { get; set; }
     }
 }

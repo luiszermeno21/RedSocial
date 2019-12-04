@@ -49,8 +49,22 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Comentario.cs" />
+    <Compile Include="Models\EstadoUsuario.cs" />
+    <Compile Include="Models\GeneroEnum.cs" />
+    <Compile Include="Models\Historia.cs" />
     <Compile Include="Models\Imagen.cs" />
+    <Compile Include="Models\ImagenBuilder.cs" />
+    <Compile Include="Models\ImagenPropiaBuilder.cs" />
+    <Compile Include="Models\ImagenSeguidorBuilder.cs" />
+    <Compile Include="Models\Ofline.cs" />
+    <Compile Include="Models\Online.cs" />
     <Compile Include="Models\Perfil.cs" />
+    <Compile Include="Models\PerfilBuilder.cs" />
+    <Compile Include="Models\PerfilDecorator.cs" />
+    <Compile Include="Models\PerfilHombre.cs" />
+    <Compile Include="Models\PerfilIndefinido.cs" />
+    <Compile Include="Models\PerfilMujer.cs" />
     <Compile Include="Models\Siguiendo.cs" />
     <Compile Include="Models\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

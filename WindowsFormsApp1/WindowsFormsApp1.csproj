@@ -59,28 +59,73 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormsUtilizados\FormBusqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsUtilizados\FormBusqueda.Designer.cs">
+      <DependentUpon>FormBusqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsUtilizados\FormComentarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsUtilizados\FormComentarios.Designer.cs">
+      <DependentUpon>FormComentarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsUtilizados\FormHistoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsUtilizados\FormHistoria.Designer.cs">
+      <DependentUpon>FormHistoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsUtilizados\FormIniciodeSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsUtilizados\FormIniciodeSesion.Designer.cs">
+      <DependentUpon>FormIniciodeSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsUtilizados\FormPaginaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsUtilizados\FormPaginaPrincipal.Designer.cs">
+      <DependentUpon>FormPaginaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsUtilizados\FormVerPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsUtilizados\FormVerPerfil.Designer.cs">
+      <DependentUpon>FormVerPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsUtilizados\FromVerPerfilDeOtro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsUtilizados\FromVerPerfilDeOtro.Designer.cs">
+      <DependentUpon>FromVerPerfilDeOtro.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UserControls\IniciodeSesion.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="UserControls\IniciodeSesion.Designer.cs">
-      <DependentUpon>IniciodeSesion.cs</DependentUpon>
-    </Compile>
-    <Compile Include="UserControls\MenuRegistrar.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="UserControls\MenuRegistrar.Designer.cs">
-      <DependentUpon>MenuRegistrar.cs</DependentUpon>
-    </Compile>
-    <Compile Include="UserControls\PaginaInicio.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="UserControls\PaginaInicio.Designer.cs">
-      <DependentUpon>PaginaInicio.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsUtilizados\FormBusqueda.resx">
+      <DependentUpon>FormBusqueda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsUtilizados\FormComentarios.resx">
+      <DependentUpon>FormComentarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsUtilizados\FormHistoria.resx">
+      <DependentUpon>FormHistoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsUtilizados\FormIniciodeSesion.resx">
+      <DependentUpon>FormIniciodeSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsUtilizados\FormPaginaPrincipal.resx">
+      <DependentUpon>FormPaginaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsUtilizados\FormVerPerfil.resx">
+      <DependentUpon>FormVerPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsUtilizados\FromVerPerfilDeOtro.resx">
+      <DependentUpon>FromVerPerfilDeOtro.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -91,15 +136,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="UserControls\IniciodeSesion.resx">
-      <DependentUpon>IniciodeSesion.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UserControls\MenuRegistrar.resx">
-      <DependentUpon>MenuRegistrar.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="UserControls\PaginaInicio.resx">
-      <DependentUpon>PaginaInicio.cs</DependentUpon>
-    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
