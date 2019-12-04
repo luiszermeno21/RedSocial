@@ -60,8 +60,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\comen" +
-    "tarios.png";
+            this.pictureBox2.ImageLocation = "C:\\temp\\comentarios.png";
             this.pictureBox2.Location = new System.Drawing.Point(658, 139);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(450, 450);
@@ -203,8 +202,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\nomeg" +
-    "usta.png";
+            this.pictureBox3.ImageLocation = "C:\\temp\\nomegusta.png";
             this.pictureBox3.Location = new System.Drawing.Point(674, 475);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(31, 31);

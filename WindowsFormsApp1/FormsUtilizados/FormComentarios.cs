@@ -31,8 +31,8 @@ namespace WindowsFormsApp1.FormsUtilizados
             perfil = p;
             imagen = im;
             tienelike = t;
-            string megusta = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\megusta.png";
-            string nomegusta = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\nomegusta.png";
+            string megusta = "C:\\temp\\megusta.png";
+            string nomegusta = "C:\\temp\\nomegusta.png";
             if (tienelike == true)
                 pictureBox3.ImageLocation = megusta;
             pictureBox1.ImageLocation = imagen._imagen.urlimagen;

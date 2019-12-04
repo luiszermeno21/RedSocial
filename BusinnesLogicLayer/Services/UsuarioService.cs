@@ -72,7 +72,7 @@ namespace BusinnesLogicLayer.Services
         {
             try
             {
-                string urlimagen = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\uu.jpg";
+                string urlimagen = "C:\\temp\\uu.jpg";
                 return _dataService.AddPerfil(perfil,urlimagen) ? "Profile created successfully" : "Errror creating Profile";
             }
             catch (Exception e)

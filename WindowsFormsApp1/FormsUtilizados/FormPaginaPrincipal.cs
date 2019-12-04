@@ -95,8 +95,8 @@ namespace WindowsFormsApp1.FormsUtilizados
 
         private void pictureBox12_Click(object sender, EventArgs e)
         {
-            string nomegusta = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\nomegusta.png";
-            string megusta = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\megusta.png";
+            string nomegusta = "C:\\temp\\nomegusta.png";
+            string megusta = "C:\\temp\\megusta.png";
             string ads = pictureBox12.ImageLocation;
             if (pictureBox12.ImageLocation == nomegusta)
             {
@@ -116,8 +116,8 @@ namespace WindowsFormsApp1.FormsUtilizados
 
         private void pictureBox13_Click(object sender, EventArgs e)
         {
-            string nomegusta = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\nomegusta.png";
-            string megusta = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\megusta.png";
+            string nomegusta = "C:\\temp\\nomegusta.png";
+            string megusta = "C:\\temp\\megusta.png";
             if (pictureBox12.ImageLocation == nomegusta)
             {
                 bool b = service.MasMeGusta(imagenes[index-1]._imagen.idimagen);
@@ -421,7 +421,7 @@ namespace WindowsFormsApp1.FormsUtilizados
             if (imagenes.Count - 2 < 0)
                 index = 0;
             else index -= 2;
-            string megusta = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\megusta.png";
+            string megusta = "C:\\temp\\megusta.png";
             bool a = false;
             if (pictureBox12.ImageLocation == megusta)
                 a = true;
@@ -435,7 +435,7 @@ namespace WindowsFormsApp1.FormsUtilizados
             if (imagenes.Count - 1 < 1)
                 index = 1;
             else index -= 1;
-            string megusta = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\megusta.png";
+            string megusta = "C:\\temp\\megusta.png";
             bool a = false;
             if (pictureBox13.ImageLocation == megusta)
                 a = true;

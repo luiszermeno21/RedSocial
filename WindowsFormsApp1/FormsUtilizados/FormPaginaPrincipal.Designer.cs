@@ -88,8 +88,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\barra" +
-    "inicio.png";
+            this.pictureBox1.ImageLocation = "C:\\temp\\barrainicio.png";
             this.pictureBox1.Location = new System.Drawing.Point(-3, 1);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(1355, 73);
@@ -123,8 +122,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\icono" +
-    "perfil.png";
+            this.pictureBox2.ImageLocation = "C:\\temp\\iconoperfil.png";
             this.pictureBox2.Location = new System.Drawing.Point(1136, 25);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(41, 29);
@@ -146,8 +144,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\stori" +
-    "es.png";
+            this.pictureBox3.ImageLocation = "C:\\temp\\stories.png";
             this.pictureBox3.Location = new System.Drawing.Point(969, 361);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(293, 238);
@@ -201,8 +198,7 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\fotos" +
-    "ubidaporperfil.png";
+            this.pictureBox6.ImageLocation = "C:\\temp\\fotosubidaporperfil.png";
             this.pictureBox6.Location = new System.Drawing.Point(66, 227);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(366, 40);
@@ -233,8 +229,7 @@
             // 
             // pictureBox9
             // 
-            this.pictureBox9.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\fotos" +
-    "ubidaporperfil.png";
+            this.pictureBox9.ImageLocation = "C:\\temp\\fotosubidaporperfil.png";
             this.pictureBox9.Location = new System.Drawing.Point(505, 227);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(366, 40);
@@ -273,8 +268,7 @@
             // 
             // pictureBox10
             // 
-            this.pictureBox10.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\barra" +
-    "likes.png";
+            this.pictureBox10.ImageLocation = "C:\\temp\\barralikes.png";
             this.pictureBox10.Location = new System.Drawing.Point(66, 626);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(366, 59);
@@ -284,8 +278,7 @@
             // 
             // pictureBox11
             // 
-            this.pictureBox11.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\barra" +
-    "likes.png";
+            this.pictureBox11.ImageLocation = "C:\\temp\\barralikes.png";
             this.pictureBox11.Location = new System.Drawing.Point(505, 626);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(366, 59);
@@ -297,8 +290,7 @@
             // pictureBox12
             // 
             this.pictureBox12.BackColor = System.Drawing.Color.White;
-            this.pictureBox12.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\nomeg" +
-    "usta.png";
+            this.pictureBox12.ImageLocation = "C:\\temp\\nomegusta.png";
             this.pictureBox12.Location = new System.Drawing.Point(66, 626);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(31, 31);
@@ -310,8 +302,7 @@
             // pictureBox13
             // 
             this.pictureBox13.BackColor = System.Drawing.Color.White;
-            this.pictureBox13.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\nomeg" +
-    "usta.png";
+            this.pictureBox13.ImageLocation = "C:\\temp\\nomegusta.png";
             this.pictureBox13.Location = new System.Drawing.Point(505, 626);
             this.pictureBox13.Name = "pictureBox13";
             this.pictureBox13.Size = new System.Drawing.Size(31, 31);
@@ -349,8 +340,7 @@
             // 
             // pictureBox14
             // 
-            this.pictureBox14.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\flech" +
-    "aadelante.png";
+            this.pictureBox14.ImageLocation = "C:\\temp\\flechaadelante.png";
             this.pictureBox14.Location = new System.Drawing.Point(900, 685);
             this.pictureBox14.Name = "pictureBox14";
             this.pictureBox14.Size = new System.Drawing.Size(25, 25);
@@ -362,8 +352,7 @@
             // 
             // pictureBox15
             // 
-            this.pictureBox15.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\flech" +
-    "aatraz.png";
+            this.pictureBox15.ImageLocation = "C:\\temp\\flechaatraz.png";
             this.pictureBox15.Location = new System.Drawing.Point(12, 685);
             this.pictureBox15.Name = "pictureBox15";
             this.pictureBox15.Size = new System.Drawing.Size(25, 25);
@@ -376,8 +365,7 @@
             // pictureBox16
             // 
             this.pictureBox16.BackColor = System.Drawing.Color.White;
-            this.pictureBox16.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\signo" +
-    "mas.png";
+            this.pictureBox16.ImageLocation = "C:\\temp\\signomas.png";
             this.pictureBox16.Location = new System.Drawing.Point(987, 399);
             this.pictureBox16.Name = "pictureBox16";
             this.pictureBox16.Size = new System.Drawing.Size(45, 45);
@@ -472,8 +460,7 @@
             // pictureBox19
             // 
             this.pictureBox19.BackColor = System.Drawing.Color.White;
-            this.pictureBox19.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\signo" +
-    "mas.png";
+            this.pictureBox19.ImageLocation = "C:\\temp\\signomas.png";
             this.pictureBox19.Location = new System.Drawing.Point(66, 126);
             this.pictureBox19.Name = "pictureBox19";
             this.pictureBox19.Size = new System.Drawing.Size(45, 45);
@@ -485,8 +472,7 @@
             // pictureBox20
             // 
             this.pictureBox20.BackColor = System.Drawing.Color.White;
-            this.pictureBox20.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\globo" +
-    "comentario.png";
+            this.pictureBox20.ImageLocation = "C:\\temp\\globocomentario.png";
             this.pictureBox20.Location = new System.Drawing.Point(103, 626);
             this.pictureBox20.Name = "pictureBox20";
             this.pictureBox20.Size = new System.Drawing.Size(31, 31);
@@ -498,8 +484,7 @@
             // pictureBox21
             // 
             this.pictureBox21.BackColor = System.Drawing.Color.White;
-            this.pictureBox21.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\globo" +
-    "comentario.png";
+            this.pictureBox21.ImageLocation = "C:\\temp\\globocomentario.png";
             this.pictureBox21.Location = new System.Drawing.Point(542, 626);
             this.pictureBox21.Name = "pictureBox21";
             this.pictureBox21.Size = new System.Drawing.Size(31, 31);

@@ -155,8 +155,7 @@
             // 
             // pictureBox7
             // 
-            this.pictureBox7.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\flech" +
-    "aadelante.png";
+            this.pictureBox7.ImageLocation = "C:\\temp\\flechaadelante.png";
             this.pictureBox7.Location = new System.Drawing.Point(1298, 672);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(25, 25);
@@ -166,8 +165,7 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.ImageLocation = "C:\\Users\\Luis Zermeño\\source\\repos\\ProyectoFinal\\RedSocial\\WindowsFormsApp1\\flech" +
-    "aatraz.png";
+            this.pictureBox6.ImageLocation = "C:\\temp\\flechaatraz.png";
             this.pictureBox6.Location = new System.Drawing.Point(12, 672);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(25, 25);
